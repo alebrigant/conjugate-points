@@ -1,4 +1,4 @@
-# conjugate-points
+# conjugate-points-torus
 
 This repository contains code to find conjugate points along Kolmogorov flows on the torus. These are geodesics in the space of volume-preserving diffeomorphisms on the torus corresponding to steady solutions of the Euler equation.
 
